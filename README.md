@@ -18,6 +18,8 @@ DEMO
 
 工夫したポイント
 
+自分が投稿したレシピを他のユーザーが編集できない様にした。
+
 使用技術（ruby on rails VS code my sql heloku)
 
 ・課題や今後実装したい機能
