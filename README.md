@@ -13,6 +13,8 @@
 
 DEMO
 
+
+
 工夫したポイント
 
 使用技術（ruby on rails VS code my sql heloku)
